@@ -4,7 +4,7 @@
 
 * [Parallel Coordinate](https://motolee.github.io/Visualization-Air-Pollution-Data-Analysis-Source/parallel-coordinate)
 
-* [Scatter Plot](https://motolee.github.io/Visualization-Air-Pollution-Data-Analysis-Source/scatter-plot)
+* [Scatter Plot Matrix](https://motolee.github.io/Visualization-Air-Pollution-Data-Analysis-Source/scatter-plot)
 
 ## Introduction
 The quality of air condition in Taiwan used to be pretty good. However, in recent years, the quality becomes worse and worse every year. People never experienced such blur eyesight before. Many people claim that with the rapid development of environment demanding industries, the quality of air rapidly worsen. Yet, some might argue that it is due to the air pollutions brought by the wind blows from China, instead of those local factories.
